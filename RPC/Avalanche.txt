@@ -1,0 +1,7 @@
+https://avax-mainnet.gateway.pokt.network/v1/lb/605238bf6b986eea7cf36d5e/ext/bc/C/rpc
+https://rpc.ankr.com/avalanche
+https://avalanche.blockpi.network/v1/rpc/public
+https://avalanche.public-rpc.com
+https://ava-mainnet.public.blastapi.io/ext/bc/C/rpc
+https://endpoints.omniatech.io/v1/avax/mainnet/public
+https://avalanche-c-chain.publicnode.com

@@ -1,0 +1,13 @@
+https://eth.llamarpc.com
+https://ethereum.publicnode.com
+https://virginia.rpc.blxrbdn.com
+https://singapore.rpc.blxrbdn.com
+https://ethereum.publicnode.com
+https://eth.rpc.blxrbdn.com
+https://eth-rpc.gateway.pokt.network
+https://rpc.mevblocker.io
+https://ethereum.blockpi.network/v1/rpc/public
+https://rpc.builder0x69.io
+https://rpc.ankr.com/eth
+https://rpc.payload.de
+

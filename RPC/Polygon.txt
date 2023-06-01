@@ -1,0 +1,8 @@
+https://matic-mainnet.chainstacklabs.com
+https://polygon-rpc.com
+https://rpc-mainnet.maticvigil.com
+https://rpc-mainnet.matic.quiknode.pro
+https://poly-rpc.gateway.pokt.network
+https://rpc.ankr.com/polygon
+https://polygon-mainnet.public.blastapi.io
+https://matic-mainnet-full-rpc.bwarelabs.com
