@@ -2,7 +2,7 @@
 
 **For harversting used private keys on multiple chains from a private key dictionary**
 
-![image](https://github.com/0x6679/coinHarvester/assets/43137410/aa0aae7f-f4db-4c7d-af76-0f1e71de65b8)
+![image](https://github.com/0x6679/coinHarvester/assets/43137410/7f203102-86d0-4d86-9e4b-7d9264c7dc58)
 
 Have you ever felt the urge to decentralise the funds within other individuals' wallets, alongside the rightful owners? 
 If so, I have some exciting news for you! Allow me to introduce the coinHarvester.
