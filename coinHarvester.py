@@ -129,7 +129,7 @@ def Ethereum_a_like_scraper(privKeys,rpc_list,coin,colour):
         try:
             priv = x.replace('\n','').replace(' ','')
             private_key = "0x" + priv
-            acct = Account.from_key(private_key)
+            acct = Account.from_key(priv)
             wallet_address = acct.address
 
             pkCheck = True
